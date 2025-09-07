@@ -7,119 +7,120 @@ msgstr ""
 "Project-Id-Version: Priviblur v0.4.0-dev\n"
 "Report-Msgid-Bugs-To: https://github.com/syeopite/priviblur/issues\n"
 "POT-Creation-Date: 2023-11-16 00:07-0800\n"
-"PO-Revision-Date: 2024-06-29 04:09+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-08 13:02+0000\n"
+"Last-Translator: Roel v <roel11112@live.nl>\n"
+"Language-Team: Gothic <https://hosted.weblate.org/projects/priviblur/"
+"translations/got/>\n"
 "Language: got\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 msgid "project_title"
-msgstr ""
+msgstr "𐍀𐍂𐌹𐌱𐌹𐌱𐌻𐌰𐍂"
 
 msgid "page_title_suffix"
-msgstr ""
+msgstr "- 𐍀𐍂𐌹𐌱𐌹𐌱𐌻𐌰𐍂"
 
 msgid "post_note_count"
 msgid_plural "post_note_count_plural"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} 𐌼𐌴𐌻𐌴𐌹𐌽𐍃"
+msgstr[1] "{0} 𐌼𐌴𐌻𐌴𐌹𐌽𐍉𐍃"
 
 msgid "search_bar_placeholder_text"
-msgstr ""
+msgstr "𐍃𐍉𐌺𐌾𐌰𐌽"
 
 msgid "navbar_today_on_tumblr_icon_title"
-msgstr ""
+msgstr "𐌷𐌹𐌼𐌼𐌰 𐌳𐌰𐌲𐌰 𐌰𐌽𐌰 𐍄𐌰𐌼𐌱𐌻𐍂"
 
 msgid "navbar_trending_icon_title"
 msgstr ""
 
 msgid "navbar_right_view_page_on_tumblr_link_title"
-msgstr ""
+msgstr "𐌻𐌰𐌿𐍆 𐍃𐌰𐌹𐍈𐌰𐌽 𐌰𐌽𐌰 𐍄𐌰𐌼𐌱𐌻𐍂𐌰"
 
 msgid "navbar_right_settings_page_title"
-msgstr ""
+msgstr "𐌻𐌰𐌲𐌴𐌹𐌽𐍉𐍃"
 
 msgid "footer_version_text"
-msgstr ""
+msgstr "𐌿𐍃𐌼𐌴𐍂𐌹 {0}"
 
 msgid "footer_source_link_text"
-msgstr ""
+msgstr "𐌱𐍂𐌿𐌽𐌽𐌰"
 
 msgid "footer_donate_link_text"
-msgstr ""
+msgstr "𐌰𐌽𐌳𐍃𐍄𐌰𐌻𐌳𐌰𐌽"
 
 msgid "footer_licences_link_text"
 msgstr ""
 
 msgid "dropdown_filter_menu_text"
-msgstr ""
+msgstr "𐍆𐌹𐌻𐍄𐍂"
 
 msgid "timeline_search_sort_by_filter_title"
 msgstr ""
 
 msgid "timeline_search_sort_by_filter_popular"
-msgstr ""
+msgstr "𐌼𐌴𐍂𐌹"
 
 msgid "timeline_search_sort_by_filter_recent"
-msgstr ""
+msgstr "𐌰𐍆𐍄𐌿𐌼𐌹𐍃𐍄"
 
 msgid "timeline_search_filter_by_date_filter_title"
 msgstr ""
 
 msgid "timeline_search_filter_by_date_filter_0"
-msgstr ""
+msgstr "𐍃𐌹𐌽𐍄𐌴𐌹𐌽𐍉"
 
 msgid "timeline_search_filter_by_date_filter_1"
-msgstr ""
+msgstr "𐌷𐌹𐌼𐌼𐌰 𐌳𐌰𐌲𐌰"
 
 msgid "timeline_search_filter_by_date_filter_7"
-msgstr ""
+msgstr "𐌰𐍆𐍄𐌿𐌼𐌹𐍃𐍄𐌰 𐍅𐌹𐌺𐍉"
 
 msgid "timeline_search_filter_by_date_filter_30"
-msgstr ""
+msgstr "𐌰𐍆𐍄𐌿𐌼𐌹𐍃𐍄𐌰 𐌼𐌴𐌽𐍉𐌸𐍃"
 
 msgid "timeline_search_filter_by_date_filter_180"
-msgstr ""
+msgstr "𐌰𐍆𐍄𐌿𐌼𐌹𐍃𐍄𐍉𐍃 𐍃𐌰𐌹𐌷𐍃 𐌼𐌴𐌽𐍉𐌸𐍃"
 
 msgid "timeline_search_filter_by_date_filter_365"
-msgstr ""
+msgstr "𐌰𐍆𐍄𐌿𐌼𐌹𐍃𐍄 𐌾𐌴𐍂"
 
 msgid "timeline_search_post_type_filter_none"
-msgstr ""
+msgstr "𐌰𐌻𐌻𐍉𐍃 𐌺𐌹𐌽𐌸𐌴𐌹𐍃"
 
 msgid "timeline_search_post_type_filter_title"
-msgstr ""
+msgstr "𐍆𐌹𐌻𐍄𐍂 𐌱𐌹 𐌺𐌹𐌽𐌸𐌰𐌹 𐍅𐌰𐌿𐍂𐌳𐌹𐍃"
 
 msgid "timeline_search_post_type_filter_text"
-msgstr ""
+msgstr "𐌱𐍉𐌺𐍉𐍃"
 
 msgid "timeline_search_post_type_filter_photo"
-msgstr ""
+msgstr "𐌻𐌹𐌿𐌷𐌰𐌳𐌰𐍆𐍂𐌹𐍃𐌰𐌷𐍄𐍃"
 
 msgid "timeline_search_post_type_filter_gif"
-msgstr ""
+msgstr "𐌲𐌹𐍆𐍃"
 
 msgid "timeline_search_post_type_filter_quote"
-msgstr ""
+msgstr "𐌵𐌹𐍃𐍃"
 
 msgid "timeline_search_post_type_filter_link"
-msgstr ""
+msgstr "𐌲𐌰𐍅𐌹𐍃𐍃"
 
 msgid "timeline_search_post_type_filter_chat"
-msgstr ""
+msgstr "𐌲𐌰𐍅𐌰𐌿𐍂𐌳𐌹"
 
 msgid "timeline_search_post_type_filter_audio"
-msgstr ""
+msgstr "𐌷𐌻𐌹𐌿𐌸"
 
 msgid "timeline_search_post_type_filter_video"
-msgstr ""
+msgstr "𐌵𐌹𐍅𐌰𐍆𐍂𐌹𐍃𐌰𐌷𐍄𐍃"
 
 msgid "timeline_search_post_type_filter_ask"
-msgstr ""
+msgstr "𐍆𐍂𐌰𐌹𐌷𐌽𐌰𐌽"
 
 msgid "timeline_search_post_type_filter_poll"
 msgstr ""
@@ -128,49 +129,49 @@ msgid "timeline_tagged_sort_by_filter_title"
 msgstr ""
 
 msgid "timeline_tagged_sort_by_filter_top"
-msgstr ""
+msgstr "𐌸𐌰𐍄𐌰 𐌰𐌿𐌷𐌿𐌼𐌹𐍃𐍄𐍉"
 
 msgid "timeline_tagged_sort_by_filter_recent"
-msgstr ""
+msgstr "𐌸𐌰𐍄𐌰 𐌰𐍆𐍄𐌿𐌼𐌹𐍃𐍄𐍉"
 
 msgid "explore_trending_page_title"
-msgstr ""
+msgstr "𐍄𐌰𐌿𐍀𐌹𐌺𐍉𐍃 𐌼𐌴𐍂𐌾𐍉𐍃"
 
 msgid "explore_today_on_tumblr_page_title"
-msgstr ""
+msgstr "𐌷𐌹𐌼𐌼𐌰 𐌳𐌰𐌲𐌰 𐌰𐌽𐌰 𐍄𐌰𐌼𐌱𐌻𐍂𐌰"
 
 msgid "pagination_next_page"
-msgstr ""
+msgstr "𐌹𐍆𐍄𐌿𐌼𐌹𐌽 𐌻𐌰𐌿𐌱𐌰"
 
 msgid "tumblr_error_blog_login_required_error_heading"
 msgstr ""
 
 msgid "tumblr_error_blog_login_required_error_description"
-msgstr ""
+msgstr "𐌹𐌸 𐌺𐌹𐌿𐍃𐌰𐌹 𐌱𐌹𐌲𐌹𐍄𐌰𐌽 𐌰𐍆𐍄𐍂𐌰𐌱𐌻𐌰𐌿𐌲𐌰!"
 
 msgid "tumblr_error_restricted_tag_error_heading"
-msgstr ""
+msgstr "𐌸𐌰𐍄𐌰 𐍃𐍉𐌺𐌽𐌹𐍅𐌰𐌿𐍂𐌳 𐌲𐌰𐌸𐍂𐌴𐌹𐌷𐌰𐌽 𐌹𐍃𐍄 𐌰𐌽𐌰 𐍄𐌰𐌼𐌱𐌻𐍂𐌰"
 
 msgid "tumblr_error_restricted_tag_description"
-msgstr ""
+msgstr "𐌼𐌰𐌲𐍄𐌿𐌷 𐌺𐌹𐌿𐍃𐌰𐌽 𐍃𐍉𐌺𐌽𐌰𐌹𐍃"
 
 msgid "tumblr_error_blog_not_found_error_heading"
-msgstr ""
+msgstr "𐌽𐌹 𐌼𐌰𐌷𐍄𐌰 𐍆𐍂𐌰𐌹𐌷𐌽𐌰𐌽 𐌱𐌻𐌰𐌿𐌲 𐌱𐌹𐌲𐌹𐍄𐌰𐌽"
 
 msgid "tumblr_error_blog_not_found_error_description"
-msgstr ""
+msgstr "𐌰𐌿𐍆𐍄𐍉 𐌸𐌰𐍄𐌰 𐌱𐌻𐌰𐌿𐌲 𐌿𐍃𐌵𐌹𐍃𐍄𐌹𐌸 𐌹𐍃𐍄 𐌸𐌰𐌿 𐌽𐌹 𐌰𐌻𐌻𐌹𐍃 𐍅𐌰𐍃 𐌰𐌹𐍅"
 
 msgid "tumblr_error_blog_requires_password_error_heading"
-msgstr ""
+msgstr "𐌸𐌰𐍄𐌰 𐌱𐌻𐌰𐌿𐌲 𐌸𐌰𐍂𐍆 𐍂𐌿𐌽𐌰𐍅𐌰𐌿𐍂𐌳𐌹𐍃 𐌳𐌿 𐌰𐍄𐌲𐌰𐌲𐌲𐌰𐌽"
 
 msgid "tumblr_error_ratelimit_reached_heading"
 msgstr ""
 
 msgid "tumblr_error_ratelimit_reached_description"
-msgstr ""
+msgstr "𐌱𐌹𐌳𐌾𐌰𐌼 𐌸𐌿𐌺 𐌱𐌹𐌸𐌴 𐌸𐌰𐍄𐌰 𐌺𐌹𐌿𐍃𐌰𐌽"
 
 msgid "priviblur_error_page_title"
-msgstr ""
+msgstr "𐌰𐌹𐍂𐌶𐌴𐌹"
 
 msgid "priviblur_error_request_to_tumblr_timed_out_heading"
 msgstr ""
@@ -194,10 +195,10 @@ msgid "priviblur_error_generic_technical_details_expansion_box_label"
 msgstr ""
 
 msgid "post_community_label_mature_heading"
-msgstr ""
+msgstr "𐌲𐌰𐌼𐌰𐌹𐌽𐌳𐌿𐌸𐌰𐌹𐍃 𐌺𐌹𐌽𐌸𐍃: 𐌿𐍃𐍅𐌰𐌷𐍃𐌰𐌽"
 
 msgid "post_community_label_generic_explanation"
-msgstr ""
+msgstr "𐌸𐌰𐍄𐌰 𐍅𐌰𐌿𐍂𐌳 𐌼𐌰𐌲 𐌷𐌰𐌱𐌰𐌽 𐍅𐌰𐌹𐌷𐍄𐌹𐌽𐍃 𐌽𐌹 𐌲𐌰𐍄𐌹𐌻𐍉𐍃 𐌰𐌻𐌻𐌰𐌹𐌼 𐌼𐌰𐌽𐌽𐌰𐌼."
 
 msgid "post_community_label_sexual_themes"
 msgstr ""
@@ -206,7 +207,7 @@ msgid "post_community_label_drug_use"
 msgstr ""
 
 msgid "post_community_label_violence"
-msgstr ""
+msgstr "𐌰𐌽𐌰𐌼𐌰𐌷𐍄𐍃"
 
 msgid "post_community_label_show_post_button"
 msgstr ""
@@ -215,28 +216,28 @@ msgid "post_community_label_no_js_show_post_instructions"
 msgstr ""
 
 msgid "post_footer_permalink_icon_title"
-msgstr ""
+msgstr "𐌲𐌰𐍅𐌹𐍃𐍃 𐍃𐌹𐌽𐍄𐌴𐌹𐌽𐌰"
 
 msgid "post_footer_view_on_tumblr_icon_title"
-msgstr ""
+msgstr "𐌰𐌽𐌰 𐍄𐌰𐌼𐌱𐌻𐍂𐌰 𐍃𐌰𐌹𐍈𐌰𐌽"
 
 msgid "blog_search_placeholder_text"
-msgstr ""
+msgstr "𐍅𐌰𐌿𐍂𐌳𐌰 𐍃𐍉𐌺𐌾𐌰𐌽"
 
 msgid "blog_banner_alt"
-msgstr ""
+msgstr "𐍆𐌰𐌽𐌰 𐌱𐌻𐌰𐌿𐌲𐌹𐍃"
 
 msgid "blog_avatar_alt"
-msgstr ""
+msgstr "𐌰𐌱𐌰𐍄𐌰𐍂 𐌱𐌻𐌰𐌿𐌲𐌹𐍃"
 
 msgid "settings_header"
-msgstr ""
+msgstr "𐌻𐌰𐌲𐌴𐌹𐌽𐍉𐍃"
 
 msgid "settings_language_selector"
-msgstr ""
+msgstr "𐍂𐌰𐌶𐌳𐌰"
 
 msgid "settings_language_selector_desc"
-msgstr ""
+msgstr "𐍅𐌰𐌻𐌴𐌹 𐍂𐌰𐌶𐌳𐌰 𐌸𐌹𐌶𐍉𐌶𐌴𐌹 𐍀𐍂𐌹𐌱𐌹𐌱𐌻𐌰𐍂 𐌱𐍂𐌿𐌺𐌴𐌹𐌸"
 
 msgid "settings_theme_selector"
 msgstr ""
@@ -248,16 +249,16 @@ msgid "settings_theme_selector_option_auto"
 msgstr ""
 
 msgid "settings_theme_selector_option_light"
-msgstr ""
+msgstr "𐌻𐌹𐌿𐌷𐌰𐌸"
 
 msgid "settings_theme_selector_option_dark"
-msgstr ""
+msgstr "𐍂𐌹𐌵𐌹𐍃"
 
 msgid "settings_save_changes"
-msgstr ""
+msgstr "𐌹𐌽𐌼𐌰𐌹𐌳𐌴𐌹𐌽𐌹𐌽𐍃 𐌲𐌰𐍆𐌰𐍃𐍄𐌰𐌽"
 
 msgid "settings_cancel_changes"
-msgstr ""
+msgstr "𐌹𐌽𐍅𐌰𐌽𐌳𐌾𐌰𐌽"
 
 msgid "settings_copy_as_bookmarklet"
 msgstr ""
@@ -272,10 +273,10 @@ msgid "priviblur_licences_page_title"
 msgstr ""
 
 msgid "post_note_viewer_view_replies_tab_title"
-msgstr ""
+msgstr "𐌰𐌽𐌳𐌰𐌷𐌰𐍆𐍄𐌴𐌹𐍃"
 
 msgid "post_note_viewer_view_reblogs_tab_title"
-msgstr ""
+msgstr "𐌰𐍆𐍄𐍂𐌰𐌱𐌻𐌰𐌿𐌲𐌰"
 
 msgid "post_note_viewer_view_likes_tab_title"
 msgstr ""
@@ -287,16 +288,16 @@ msgid "post_note_viewer_view_reblogs_filter_reblogs_with_content_comments"
 msgstr ""
 
 msgid "post_note_viewer_view_reblogs_filter_reblogs_only"
-msgstr ""
+msgstr "𐌰𐍆𐍄𐍂𐌰𐌱𐌻𐌰𐌿𐌲𐌰 𐌰𐌽𐌸𐌰𐍂𐌰"
 
 msgid "post_note_viewer_view_replies_filter_sort_oldest"
-msgstr ""
+msgstr "𐌸𐌰𐍄𐌰 𐌰𐍆𐍄𐌿𐌼𐌹𐍃𐍄𐍉 𐍆𐍂𐌿𐌼𐌹𐍃𐍄"
 
 msgid "post_note_viewer_view_replies_filter_sort_newest"
-msgstr ""
+msgstr "𐌸𐌰𐍄𐌰 𐌽𐌹𐌿𐌾𐌹𐍃𐍄𐍉 𐍆𐍂𐌿𐌼𐌹𐍃𐍄"
 
 msgid "settings_expand_blogger_truncated_posts"
-msgstr ""
+msgstr "𐍅𐌰𐌿𐍂𐌳𐌰 𐌿𐍆𐌰𐍂𐌸𐌴𐌹𐌷𐌰𐌽"
 
 msgid "settings_expand_blogger_truncated_posts_desc"
 msgstr ""
