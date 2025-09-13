@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Priviblur v0.4.0-dev\n"
 "Report-Msgid-Bugs-To: https://github.com/syeopite/priviblur/issues\n"
 "POT-Creation-Date: 2023-11-16 00:07-0800\n"
-"PO-Revision-Date: 2025-09-12 01:01+0000\n"
+"PO-Revision-Date: 2025-09-13 22:01+0000\n"
 "Last-Translator: Roel v <roel11112@live.nl>\n"
 "Language-Team: Gothic <https://hosted.weblate.org/projects/priviblur/"
 "translations/got/>\n"
@@ -54,7 +54,7 @@ msgid "footer_donate_link_text"
 msgstr "𐌰𐌽𐌳𐍃𐍄𐌰𐌻𐌳𐌰𐌽"
 
 msgid "footer_licences_link_text"
-msgstr ""
+msgstr "𐌰𐌽𐌳𐌻𐌴𐍄𐌰 𐌸𐌿𐍃 𐌲𐌹𐌱𐌰𐌽𐌰 𐍆𐍂𐌰𐌼 𐍀𐍂𐌹𐌱𐌹𐌱𐌻𐌰𐍂𐌰"
 
 msgid "dropdown_filter_menu_text"
 msgstr "𐍆𐌹𐌻𐍄𐍂"
@@ -180,7 +180,7 @@ msgid "priviblur_error_request_to_tumblr_timed_out_description"
 msgstr ""
 
 msgid "priviblur_error_invalid_internal_tumblr_redirect"
-msgstr ""
+msgstr "𐌰𐌹𐍂𐌶𐌴𐌹: 𐍄𐌰𐌼𐌱𐌻𐍂 𐌷𐍄𐍄𐍀 301 𐌰𐍄𐍂𐌰𐌹𐌷𐍄𐌴𐌹𐌸 𐌱𐌰𐌽𐌳𐍅𐌰𐍂𐌾𐌴 𐌳𐌿 𐌿𐍂𐌻 𐌰𐌻𐌾𐌰𐌺𐌿𐌽𐌾𐌰𐌼𐌼𐌰"
 
 msgid "priviblur_error_generic"
 msgstr "𐌿𐍃𐍅𐌰𐌽𐌳𐌴𐌹𐌽𐍃 𐌿𐌽𐌺𐌿𐌽𐌸𐌰 𐍅𐌰𐍂𐌸!"
@@ -210,10 +210,10 @@ msgid "post_community_label_violence"
 msgstr "𐌰𐌽𐌰𐌼𐌰𐌷𐍄𐍃"
 
 msgid "post_community_label_show_post_button"
-msgstr ""
+msgstr "𐍅𐌰𐌿𐍂𐌳 𐌱𐌰𐌽𐌳𐍅𐌾𐌰𐌽"
 
 msgid "post_community_label_no_js_show_post_instructions"
-msgstr ""
+msgstr "𐌱𐌰𐌽𐌳𐍅𐌴𐌹𐌸 𐍃𐍅𐌰𐌹𐌱𐌾𐌰𐌽𐌳𐌴𐌹𐌽 𐌼𐌿𐍃"
 
 msgid "post_footer_permalink_icon_title"
 msgstr "𐌲𐌰𐍅𐌹𐍃𐍃 𐍃𐌹𐌽𐍄𐌴𐌹𐌽𐌰"
@@ -261,16 +261,16 @@ msgid "settings_cancel_changes"
 msgstr "𐌹𐌽𐍅𐌰𐌽𐌳𐌾𐌰𐌽"
 
 msgid "settings_copy_as_bookmarklet"
-msgstr ""
+msgstr "𐌲𐌰𐌲𐌰𐌻𐌴𐌹𐌺𐍉𐌽 𐍃𐍅𐌴 𐌱𐍉𐌺𐌰𐌼𐌰𐍂𐌺𐌰"
 
 msgid "settings_copy_as_bookmarklet_confirmed"
-msgstr ""
+msgstr "𐌲𐌰𐌲𐌰𐌻𐌴𐌹𐌺𐍉𐌳𐌰"
 
 msgid "settings_copy_as_bookmarklet_failed"
-msgstr ""
+msgstr "𐌽𐌹 𐌼𐌰𐌷𐍄𐌰 𐌲𐌰𐌲𐌰𐌻𐌴𐌹𐌺𐍉𐌽"
 
 msgid "priviblur_licences_page_title"
-msgstr ""
+msgstr "𐌰𐌽𐌳𐌻𐌴𐍄𐌰 𐌲𐌹𐌱𐌰𐌽𐌰 𐍆𐍂𐌰𐌼 𐍀𐍂𐌹𐌱𐌹𐌱𐌻𐌰𐍂𐌰"
 
 msgid "post_note_viewer_view_replies_tab_title"
 msgstr "𐌰𐌽𐌳𐌰𐌷𐌰𐍆𐍄𐌴𐌹𐍃"
@@ -279,7 +279,7 @@ msgid "post_note_viewer_view_reblogs_tab_title"
 msgstr "𐌰𐍆𐍄𐍂𐌰𐌱𐌻𐌰𐌿𐌲𐌰"
 
 msgid "post_note_viewer_view_likes_tab_title"
-msgstr ""
+msgstr "𐌻𐌴𐌹𐌺𐌰𐌽𐌳"
 
 msgid "post_note_viewer_view_reblogs_filter_reblogs_with_comments"
 msgstr "𐍅𐌰𐌿𐍂𐌳𐌰 𐌾𐌰𐌷 𐍃𐍉𐌺𐌽𐌹𐍅𐌰𐌿𐍂𐌳𐌰"
@@ -315,7 +315,7 @@ msgid "npf_renderer_unsupported_block_description"
 msgstr ""
 
 msgid "npf_renderer_generic_image_alt_text"
-msgstr ""
+msgstr "𐍆𐍂𐌹𐍃𐌰𐌷𐍄𐍃"
 
 msgid "npf_renderer_link_block_poster_alt_text"
 msgstr "𐍆𐍂𐌹𐍃𐌰𐌷𐍄 𐍆𐌰𐌿𐍂𐌰𐍃𐌰𐌹𐍈𐌰𐌽 𐍆𐌰𐌿𐍂 \"{site}\""
@@ -383,7 +383,7 @@ msgid "alert_view_post_on_account_restricted_blog_heading"
 msgstr "𐌸𐌰𐍄𐌰 𐌱𐌻𐌰𐌿𐌲 𐌸𐌰𐍂𐍆 𐍂𐌰𐌷𐌽𐌴𐌹𐌽𐌰𐌹𐍃 𐌳𐌿 𐍃𐌰𐌹𐍈𐌰𐌽"
 
 msgid "alert_view_post_on_account_restricted_blog_message"
-msgstr ""
+msgstr "𐌸𐌰𐍄𐌰𐌹𐌽𐌴𐌹 𐍅𐌰𐌿𐍂𐌳𐌰 𐌿𐌽𐌳𐌰𐌹𐌻𐌹𐌳𐌰𐌲𐌰 𐍃𐍅𐌴 𐌸𐌰𐍄𐌰 𐌼𐌰𐌲𐌿𐌽 𐌰𐍄𐌰𐌿𐌾𐌰𐌽"
 
 msgid "alert_error_on_rendering_post_contents_heading"
 msgstr "𐌽𐌹 𐌼𐌰𐌷𐍄𐌰 𐌲𐌰𐍄𐌰𐌿𐌾𐌰𐌽 𐌸𐌰𐍄𐌴𐌹 𐌹𐍃𐍄 𐌹𐌽 𐍅𐌰𐌿𐍂𐌳𐌰 𐌸𐌰𐌼𐌼𐌰"
